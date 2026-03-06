@@ -79,6 +79,12 @@ The data used in this project is a custom ecommerce dataset provided as a SQL sc
 
 ---
 
+## Query Screenshots
+Browse the [Findings Images](./Findings%20Images/) folder to view 
+results for all 25 queries organized by section.
+
+---
+
 ## How to Run
 1. Install MySQL 8.0 + MySQL Workbench.
 2. Download the `ecommerce_data_setup.sql` file from this repository.
