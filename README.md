@@ -87,4 +87,4 @@ The data used in this project is a custom ecommerce dataset provided as a SQL sc
 
 ---
 **Jannu Sai Ritwik** | Data Analyst  
-[[Link to your LinkedIn Profile here]](https://www.linkedin.com/in/jannu-sai-ritwik-339749201/) | Hyderabad
+[[Linkedin]](https://www.linkedin.com/in/jannu-sai-ritwik-339749201/) | Hyderabad
