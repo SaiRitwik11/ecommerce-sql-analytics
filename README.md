@@ -10,15 +10,15 @@ CASE WHEN, Subqueries, Date Functions, Aggregations
 
 ---
 
-## Key Findings
-- **Total Revenue:** $2,757,346 gross | $2,049,059 net (after returns)
-- **Revenue Lost to Returns:** ~$708K (25.7% of gross revenue)
-- **Average Order Value:** $3,232
-- **Repeat Customer Rate:** 95.98% — extremely high loyalty
-- **Highest Revenue Region:** Asia East — $331,933 (16.2% of total)
-- **Worst Return Region:** North America — 32% return rate
-- **Worst Return Category:** Footwear — 28% return rate
-- **Top Customer:** Melanie Davis — $41,882 lifetime value
+## Key Findings & Business Insights
+- **Revenue Overview:** $2,757,346 gross | $2,049,059 net (after returns).
+- **Revenue Lost to Returns:** ~$708K (25.7% of gross revenue). *Insight: A 25% refund rate is a massive financial leak that requires immediate operational review.*
+- **Repeat Customer Rate:** 95.98%. *Insight: This indicates extremely high brand loyalty. Marketing should shift focus from retention campaigns to aggressive new customer acquisition.*
+- **Highest Revenue Region:** Asia East — $331,933 (16.2% of total). *Insight: Marketing budgets should be heavily allocated here to maintain momentum, while underperforming regions may require targeted, localized promotions.*
+- **Worst Return Category:** Footwear — 28% return rate. *Insight: The company must urgently investigate footwear sizing charts, update product descriptions, or audit supplier quality.*
+- **Worst Return Region:** North America — 32% return rate. *Insight: Suggests localized issues, potentially related to regional shipping damage or mismatched demographic sizing.*
+- **Top Customer:** Melanie Davis — $41,882 lifetime value.
+- **Average Order Value:** $3,232.
 
 ---
 
