@@ -1,6 +1,6 @@
 -- Create Database
-CREATE DATABASE final_project_ecommerce;
-USE final_project_ecommerce;
+CREATE DATABASE ecommerce_analysis;
+USE ecommerce_analysis;
 
 -- 1. Regions (no dependencies)
 CREATE TABLE Regions (
@@ -3366,3 +3366,4 @@ INSERT INTO OrderDetails (OrderDetailID, OrderID, ProductID, Quantity) VALUES
 (1998, 206, 74, 2),
 (1999, 661, 39, 1),
 (2000, 649, 57, 2);
+
