@@ -88,7 +88,7 @@ results for all 25 queries organized by section.
 ## How to Run
 1. Install MySQL 8.0 + MySQL Workbench.
 2. Download the `ecommerce_data_setup.sql` file from this repository.
-3. Open the file in MySQL Workbench and execute it. This will automatically create the `final_project_ecommerce` database and populate all 5 tables.
+3. Open the file in MySQL Workbench and execute it. This will automatically create the `ecommerce_analysis` database and populate all 5 tables.
 4. Open `ecommerce_analysis.sql` and run the queries section by section to view the analysis.
 
 ---
