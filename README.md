@@ -120,7 +120,7 @@ results for all 25 queries organized by section.
 4. Open `ecommerce_analysis.sql` and run the queries section by section to view the analysis.
 
 **Python Visualizations:**
-5. Open `python/ecommerce_visualizations.ipynb` in Google Colab or Jupyter Notebook to view and execute the Matplotlib/Seaborn visualization scripts.
+5. Open `Python/ecommerce_visualizations.ipynb` in Google Colab or Jupyter Notebook to view and execute the Matplotlib/Seaborn visualization scripts.
 
 ---
 **Jannu Sai Ritwik** | Data Analyst  
