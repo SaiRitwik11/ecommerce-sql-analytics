@@ -119,6 +119,9 @@ results for all 25 queries organized by section.
 3. Open the file in MySQL Workbench and execute it. This will automatically create the `ecommerce_analysis` database and populate all 5 tables.
 4. Open `ecommerce_analysis.sql` and run the queries section by section to view the analysis.
 
+**Python Visualizations:**
+5. Open `python/ecommerce_visualizations.ipynb` in Google Colab or Jupyter Notebook to view and execute the Matplotlib/Seaborn visualization scripts.
+
 ---
 **Jannu Sai Ritwik** | Data Analyst  
 [[Linkedin]](https://www.linkedin.com/in/jannu-sai-ritwik-339749201/) | Hyderabad
