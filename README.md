@@ -4,7 +4,7 @@
 End-to-end SQL analysis on a 5-table ecommerce database answering 
 25 business questions across 6 categories.
 
-**Tools:** MySQL 8.0, MySQL Workbench  
+**Tools:** MySQL 8.0, MySQL Workbench, Python (pandas, matplotlib, seaborn)  
 **Skills:** Joins, CTEs, Window Functions (LAG, SUM OVER), 
 CASE WHEN, Subqueries, Date Functions, Aggregations
 
@@ -22,6 +22,34 @@ CASE WHEN, Subqueries, Date Functions, Aggregations
 
 ---
 
+## Python Visualizations
+
+Three charts were built in Python (pandas + matplotlib + seaborn) 
+to communicate the SQL findings visually.
+
+### Return Rate by Region
+![Return Rate by Region](./Python/outputs/return_rate_by_region.png)
+
+### Monthly Net Revenue Trend (2023)
+![Monthly Revenue Trend](./Python/outputs/monthly_revenue_trend.png)
+
+### Revenue Contribution by Region
+![Revenue by Region](./Python/outputs/revenue_by_region_pie.png)
+
+---
+
+## Executive Recommendations
+1. **Fix North America returns (32% rate):** Investigate shipping damage, 
+   sizing accuracy, and return policy abuse in this region. A 32% return 
+   rate is 2× the industry benchmark and directly caused ~$708K revenue 
+   loss.
+2. **Protect the repeat customer base (95.98%):** This is an exceptional 
+   loyalty signal. Introduce a formal loyalty/VIP program to convert 
+   repeat buyers into brand advocates.
+3. **Prioritize footwear product quality (28% return rate):** 
+   Audit supplier quality and update sizing charts before next 
+   seasonal inventory purchase.
+   
 ## Business Questions Answered
 
 ### Section 1: General Sales Insights
